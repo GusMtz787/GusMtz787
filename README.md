@@ -23,4 +23,11 @@ During my bachelors I thought control engineering was extremely boring, and it w
 
 ### What do I do nowadays?
 
-I am working as a **research associate** at the University of Paderborn. I was the tutor of the **advanced system theory** course and the current tutor of **system theory**. Teaching these topics was been an introspective experience too. 
+I am working as a **research associate** at the University of Paderborn. I am the current tutor of **system theory** and **advanced system theory** courses. Teaching these topics was been an introspective experience too. Additionally I have been producing a comprehensive guide regarding the current status of **direct data-driven Model Predictive Control**. 
+
+### Professional interest
+
+I enjoy working designing flight controllers for autonomous flying vehicles. I have developed an adaptive sliding mode control strategy based on visual cues that you can find the simulation videos in the following links: 
+
+- [Quadrotor UAV adaptive sliding mode control](https://www.youtube.com/watch?v=FMEtGg45hEI)
+- [Adaptive visual sliding mode control using quaternions](https://www.youtube.com/watch?v=GprqokqhALo).
