@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a **mechatronics** engineer with a Masters in **control engineering** and **robotics** that loves airplanes and basically everything that flies.
+I am a **mechatronics** engineer with a Masters in **control engineering** and **robotics**. I am also _that_ guy obssesed with airplanes and basically everything that flies.
 
 ### Professional interest
 
