@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 
 I am a **mechatronics** engineer with a Masters in **control engineering** and **robotics** that loves airplanes and basically everything that flies.
 
+### Professional interest
+
+I enjoy working designing flight controllers for autonomous flying vehicles. I have developed an adaptive sliding mode control strategy based on visual cues that you can find the simulation videos in the following links: 
+
+- [Adaptive sliding mode control for a QUAV](https://www.youtube.com/watch?v=FMEtGg45hEI)
+- [Adaptive visual sliding mode control using quaternions](https://www.youtube.com/watch?v=GprqokqhALo)
+
+These videos are part of my research which you can find in my [Google scholar profile]([https://www.youtube.com/watch?v=GprqokqhALo](https://scholar.google.com/citations?user=43WNdgkAAAAJ&hl=en)). 
+
+I also enjoy working with Machine Learning and software development which allowed me to publish other scientific papers also available in my Google scholar.
+
 ### How did I even get here?
 
 During my bachelors I thought control engineering was extremely boring, and it wasn't until I programmed a PID using LabVIEW that I thought to myself: wait a minute... this is... applicable to many areas in engineering. And so I became engaged by the incredible world of system theory, controllers and optimization problems. 
@@ -24,10 +35,3 @@ During my bachelors I thought control engineering was extremely boring, and it w
 ### What do I do nowadays?
 
 I am working as a **research associate** at the University of Paderborn. I am the current tutor of **system theory** and **advanced system theory** courses. Teaching these topics was been an introspective experience too. Additionally I have been producing a comprehensive guide regarding the current status of **direct data-driven Model Predictive Control**. 
-
-### Professional interest
-
-I enjoy working designing flight controllers for autonomous flying vehicles. I have developed an adaptive sliding mode control strategy based on visual cues that you can find the simulation videos in the following links: 
-
-- [Quadrotor UAV adaptive sliding mode control](https://www.youtube.com/watch?v=FMEtGg45hEI)
-- [Adaptive visual sliding mode control using quaternions](https://www.youtube.com/watch?v=GprqokqhALo).
