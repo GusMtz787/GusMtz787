@@ -24,7 +24,7 @@ I enjoy working designing flight controllers for autonomous flying vehicles. I h
 - [Adaptive sliding mode control for a QUAV](https://www.youtube.com/watch?v=FMEtGg45hEI)
 - [Adaptive visual sliding mode control using quaternions](https://www.youtube.com/watch?v=GprqokqhALo)
 
-These videos are part of my research which you can find in my [Google scholar profile]([https://www.youtube.com/watch?v=GprqokqhALo](https://scholar.google.com/citations?user=43WNdgkAAAAJ&hl=en)). 
+These videos are part of my research which you can find in my [Google scholar profile](https://scholar.google.com/citations?user=43WNdgkAAAAJ&hl=en). 
 
 I also enjoy working with Machine Learning and software development which allowed me to publish other scientific papers also available in my Google scholar.
 
