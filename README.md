@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 I am a **mechatronics** engineer with a Masters in **control engineering** and **robotics** that loves airplanes and basically everything that flies.
 
 ### How did I even get here?
+
 During my bachelors I thought control engineering was extremely boring, and it wasn't until I programmed a PID using LabVIEW that I thought to myself: wait a minute... this is... applicable to many areas in engineering. And so I became engaged by the incredible world of system theory, controllers and optimization problems. 
 
+### What do I do nowadays?
+
+I am working as a **research associate** at the University of Paderborn. I was the tutor of the **advanced system theory** course and the current tutor of **system theory**. Teaching these topics was been an introspective experience too. 
