@@ -34,4 +34,4 @@ During my bachelors I thought control engineering was extremely boring, and it w
 
 ### What do I do nowadays?
 
-I am working as a **research associate** at the University of Paderborn. I am the current tutor of **system theory** and **advanced system theory** courses. Teaching these topics was been an introspective experience too. Additionally I have been producing a comprehensive guide regarding the current status of **direct data-driven Model Predictive Control**. 
+I am working as a **research associate** at the University of Paderborn. I am the current tutor of **system theory** and **advanced system theory** courses. Teaching these topics was been an introspective experience too. Additionally I am working to produce a comprehensive guide regarding the current status of **direct data-driven Model Predictive Control** as well as reproducing example algorithms from authors like Dr. Jeremy Coulson and Dr. Julian Berberich. 
