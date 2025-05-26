@@ -30,7 +30,8 @@ I also enjoy working with Machine Learning and software development, which has a
 
 ### How did I even get here?
 
-During my bachelor's, I thought control engineering was extremely boring. It wasn't until I programmed a PID using LabVIEW that I thought to myself: *Wait a minute... this applies to many areas in engineering.* And so I became engaged by the incredible world of system theory, controllers, and optimization problems. 
+During my bachelor's, I thought control engineering was extremely boring. It wasn't until I programmed a PID using LabVIEW that I thought to myself: *Wait a minute... this applies to many areas in engineering.* And so I became engaged by the incredible world of system theory, controllers, and optimization problems. The joruney 
+has been that impactful for my life because I became interested in more mathematical stuff, mainly linear algebra. I really feel this allowed me to be in contact with the idea that, the more you research something, the more you understand how many things you weren't even aware of. _Beautiful._
 
 ### What do I do nowadays?
 
