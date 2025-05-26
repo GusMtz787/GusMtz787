@@ -19,7 +19,7 @@ I am a **mechatronics** engineer with a Masters in **control engineering** and *
 
 ### My interests
 
-I enjoy working on designing flight controllers for autonomous flying vehicles. I have developed an adaptive sliding mode control strategy based on visual cues, which you can find the simulation videos in the following links: 
+I enjoy working with robotics, software, and control engineering in general. Specifically, I have been working on designing flight controllers for autonomous flying vehicles. I have developed an adaptive sliding mode control strategy based on visual cues, which you can find the simulation videos in the following links: 
 
 - [Adaptive sliding mode control for a QUAV](https://www.youtube.com/watch?v=FMEtGg45hEI)
 - [Adaptive visual sliding mode control using quaternions](https://www.youtube.com/watch?v=GprqokqhALo)
